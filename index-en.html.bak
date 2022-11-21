@@ -30,7 +30,7 @@
         <img class="profile" src="Util/images/profile.jpg" alt="" />
         <h1 class="name">Adilson Moraes Moreira</h1>
         <h3 class="tagline">
-          Engenheiro de Software | Desenvolvedor de Software | Analista de sistemas
+          Software Engineer | Software Developer | Systems Analyst
         </h3>
       </div>
 
@@ -56,16 +56,16 @@
         </ul>
       </div>
       <div class="education-container container-block">
-        <h2 class="container-block-title">Formação</h2>
+        <h2 class="container-block-title">Formation</h2>
         <div class="item">
-          <h4 class="degree">Pós-graduação em Gestão em Tecnologia da Informação</h4>
-          <h5 class="meta">Universidade Anhembi Morumbi</h5>
+          <h4 class="degree">Postgraduate Management Information Technology</h4>
+          <h5 class="meta">Anhembi Morumbi University</h5>
           <div class="time">01/2022 a 12/2022</div>
         </div>
 
         <div class="item">
-          <h4 class="degree">Sistemas de Informação</h4>
-          <h5 class="meta">Universidade Estácio de Sá</h5>
+          <h4 class="degree">Information Systems</h4>
+          <h5 class="meta">Estácio de Sá University</h5>
           <div class="time">01/2007 - 12/2010</div>
         </div>
 
@@ -77,27 +77,27 @@
       </div>
 
       <div class="languages-container container-block">
-        <h2 class="container-block-title">LÍNGUAS</h2>
+        <h2 class="container-block-title">Languages</h2>
         <ul class="list-unstyled interests-list">
           <li>
-            Inglês
-            <span class="lang-desc">(Intermediário B1)</span>
+            English
+            <span class="lang-desc">(Intermediary B1)</span>
           </li>
           <li>
-            Espanhol
-            <span class="lang-desc">(Básico)</span>
+            Spanish
+            <span class="lang-desc">(Basic)</span>
           </li>
         </ul>
       </div>
 
       <div class="interests-container container-block">
-        <h2 class="container-block-title">Interesses</h2>
+        <h2 class="container-block-title">Interests</h2>
         <ul class="list-unstyled interests-list">
           <li>Team Leader</li>
           <li>Squad Leader</li>
-          <li>Engenheiro de Software</li>
-          <li>Desenvolvimento de Software</li>
-          <li>Análise de Sistemas</li>
+          <li>Software Engineer</li>
+          <li>Software Developer</li>
+          <li>Systems Analyst</li>
           <li>Scrum</li>
         </ul>
       </div>
@@ -111,26 +111,26 @@
         <div class="summary">
 
           <p>
-            Profissional com atuação em atividades voltadas ao desenvolvimento de softwares há mais de 13 anos. Bacharel
-            em Sistemas de Informação pela universidade Estácio de Sá em São Paulo - Brasil., com especialização em
-            Gestão
-            em Tecnologia da Informação pela universidade Anhembi Morumbi em São Paulo - Brasil.
+            Professional with over 13 years of experience in software development activities. Bachelor
+            in Information Systems from the Estácio de Sá University in São Paulo - Brazil., with a specialization in
+            Management
+            in Information Technology from Anhembi Morumbi University in São Paulo - Brazil.
           </p>
           <p>
-            Programar pra mim não é só trabalho, é diversão, lazer, hobby, entretenimento e acima de tudo, uma forma de
-            unir pessoas em prol de um ideal.
+            Programming for me is not just work, it is fun, leisure, hobby, entertainment and above all, a way of
+            unite people for an ideal.
           </p>
 
           <br>
-          <h5>Resumo de Experiências</h5>
+          <h5>Experience Summary</h5>
           <lu>
-            <li>Experiência com desenvolvimento Web RESTfull</li>
-            <li>Depuração e otimização de código</li>
-            <li>Análise e levantamento de requisitos</li>
-            <li>Gestão das demandas utilizando Scrum/Lean.</li>
+            <li>Experience with RESTful web development</li>
+            <li>Code debugging and optimization</li>
+            <li>Requirement analysis and gathering</li>
+            <li>Management of demands using Scrum/Lean.</li>
             <li>Microservices</li>
-            <li>Desenvolvimento C# com ASP.Net Core e .Net 6</li>
-            <li>Sql Server, PostgreSQL, Oracle (Pl/Sql), Mysql, DynamoDB e DocumentoDB (MongoDB)</li>
+            <li>C# Development with ASP.Net Core and .Net 6</li>
+            <li>Sql Server, PostgreSQL, Oracle (Pl/Sql), Mysql, DynamoDB and DocumentoDB (MongoDB)</li>
             <li>Microsoft Azure DevOps</li>
             <li>Jira/Confluence</li>
             <li>Amazon Webservices AWS</li>
@@ -138,61 +138,62 @@
             <li>Containers(Docker)</li>
             <li>AmazonMQ (RabbitMQ)</li>
             <li>Kibana (Amazon OpenSearch Service)</li>
-            <li>CleanCode e DDD</li>
-            <li>Desenvolvimeno de teste unitário com xUnit para .net core</li>
-            <li>Desenvolvimento de collections para teste via postman</li>
-            <li>Integração com banco SIBS de Portugal</li>
-            <li>Integração com banco santander da Espanha</li>
-            <li>HTML5 e JavaScript</li>
-            <li>Versionamento de código fonte com GIT e Azure Devops, incluindo branching e merging</li>
-            <li>Controle de versão com GIT e Azure Devops</li>
+            <li>CleanCode and DDD</li>
+            <li>Unit test development with xUnit for .net core</li>
+            <li>Development of test collections via postman</li>
+            <li>Integration with SIBS Bank of Portugal</li>
+            <li>Integration with Banco Santander in Spain</li>
+            <li>HTML5 and JavaScript</li>
+            <li>Experience in source code versioning with GIT and Azure Devops, including branching and
+              merging</li>
+            <li>Version Control with GIT and Azure Devops</li>
             <li>Objectives and Key Results - OKR</li>
             <li>Management 3.0 Certificate</li>
-			<li>Professional Agile Leadership Certificate - PAL I®</li>
+			<li>Professional Agile Leadership Certificate - PAL I®</li>			
             <li>Professional Scrum Master Certificate - PSM I®</li>
             <li>Professional Scrum Product Owner Certificate - PSPO I®</li>
-            <li>Kanban Foundation Certificate - KIKF®</li>
+            <li>Kanban Foundation - KIKF®</li>
             <li>Kanban Essentials Professional Certificate - KEPC®</li>
-            <li>Scrum Foundation Professional Certificate - SFPC®</li>			
+            <li>Scrum Foundation Professional Certificate - SFPC®</li>
           </lu>
         </div>
       </section>
 
       <section class="section experiences-section">
         <h2 class="section-title">
-          <i class="fa fa-briefcase"></i>Experiências
+          <i class="fa fa-briefcase"></i>Experiences
         </h2>
         <div class="item">
           <div class="meta">
             <div class="upper-row">
-              <h3 class="job-title">Engenheiro de Software</h3>
+              <h3 class="job-title">Software Engineer</h3>
               <div class="time">04/2022 - Atual</div>
             </div>
             <div class="company"><a href="https://timestampgroup.com/ts/quemsomos/team/" target="_blank">Timestamp Group
                 - Lisboa Portugal</a></div>
           </div>
           <div class="details">
-            <h5>Projeto Galp Energia</h5>
+            <h5>Galp Energy Project</h5>
             <ul>
-              <li>Análise e levantamento de requisitos</li>
-              <li>Gestão das demandas utilizando Scrum/Lean.</li>
+              <li>Requirement analysis and gathering</li>
+              <li>Managing Demands Using Scrum/Lean.</li>
               <li>.Net Core</li>
               <li>Microservices</li>
-              <li>Desenvolvimento C# com ASP.Net Core e .Net 6</li>
-              <li>PostgreSQL e DocumentoDB (MongoDB)</li>
+              <li>C# Development with ASP.Net Core and .Net 6</li>
+              <li>PostgreSQL and DocumentDB (MongoDB)</li>
               <li>Microsoft Azure DevOps</li>
               <li>Jira/Confluence</li>
               <li>Amazon Webservices AWS</li>
               <li>Agile Methodology</li>
-              <li>Containers(Docker)</li>
+              <li>Containers (Docker)</li>
               <li>AmazonMQ (RabbitMQ)</li>
               <li>Kibana (Amazon OpenSearch Service)</li>
-              <li>CleanCode e DDD</li>
-              <li>Desenvolvimeno de teste unitário com xUnit para .net core</li>
-              <li>Desenvolvimento de collections para teste via postman</li>
-              <li>Integração com banco SIBS de Portugal</li>
-              <li>Integração com banco santander da Espanha</li>
-              <li>HTML5 e JavaScript</li>
+              <li>CleanCode and DDD</li>
+              <li>Unit test development with xUnit for .net core</li>
+              <li>Development of test collections via postman</li>
+              <li>Integration with SIBS Banco de Portugal</li>
+              <li>Integration with Banco Santander in Spain</li>
+              <li>HTML5 and JavaScript</li>
               <li>Git</li>
             </ul>
           </div>
@@ -209,13 +210,13 @@
           </div>
           <div class="details">
             <ul>
-              <li>Gestão de time ágil</li>
-              <li>Análise e levantamento de requisitos</li>
-              <li>Gestão das demandas utilizando Scrum/Lean.</li>
+              <li>Agile team management</li>
+              <li>Requirement analysis and gathering</li>
+              <li>Management of demands using Scrum/Lean.</li>
               <li>.Net Core</li>
               <li>Microservices</li>
-              <li>Desenvolvimento C# com ASP.Net Core e .Net 6</li>
-              <li>PostgreSQL e Sql Server</li>
+              <li>C# Development with ASP.Net Core and .Net 6</li>
+              <li>PostgreSQL and Sql Server</li>
               <li>Microsoft Azure DevOps</li>
               <li>Bitbucket</li>
               <li>Jira/Trello/CODA</li>
@@ -230,7 +231,7 @@
         <div class="item">
           <div class="meta">
             <div class="upper-row">
-              <h3 class="job-title">Engenheiro de Software</h3>
+              <h3 class="job-title">Software Engineer</h3>
               <div class="time">10/2020 - 11/2021</div>
             </div>
             <div class="company"><a href="https://www.btgpactual.com/institucional" target="_blank">BTG Pactual</a>
@@ -238,12 +239,12 @@
           </div>
           <div class="details">
             <ul>
-              <li>Análise e Levantamento de Requisitos</li>
-              <li>Gestão das demandas utilizando Scrum/Lean.</li>
+              <li>Requirements Analysis and Gathering</li>
+              <li>Management of demands using Scrum/Lean.</li>
               <li>.Net Core</li>
               <li>Microservices</li>
-              <li>Desenvolvimento C# com ASP.Net Core e .Net 6</li>
-              <li>DynamoDB (NoSql), PostgreSQL, MySql e Sql Server</li>
+              <li>C# Development with ASP.Net Core and .Net 6</li>
+              <li>DynamoDB (NoSql), PostgreSQL, MySql and Sql Server</li>
               <li>Microsoft Azure DevOps</li>
               <li>Jira/Trello</li>
               <li>Amazon Webservices AWS</li>
@@ -257,7 +258,7 @@
         <div class="item">
           <div class="meta">
             <div class="upper-row">
-              <h3 class="job-title">Analista de Sistemas</h3>
+              <h3 class="job-title">Systems Analyst</h3>
               <div class="time">11/2017 - 10/2020</div>
             </div>
             <div class="company"><a href="https://www.amcom.com.br/sobre-amcom/" target="_blank">AMCom Sistemas de
@@ -265,13 +266,13 @@
           </div>
           <div class="details">
             <ul>
-              <li>Análise e Levantamento de Requisitos</li>
-              <li>Gestão das demandas utilizando Scrum/Lean</li>
-              <li>Desenvolvimento C# com ASP.Net Core</li>
+              <li>Requirements Analysis and Gathering</li>
+              <li>Management of demands using Scrum/Lean</li>
+              <li>C# Development with ASP.Net Core</li>
               <li>Microservices</li>
               <li>Amazon Webservices AWS</li>
-              <li>Desenvolvimento e Manutenção em banco de dados</li>
-              <li>Desenvolvimento e Manutenção em aplicações legadas (ASP e VB)</li>
+              <li>Database Development and Maintenance</li>
+              <li>Development and Maintenance in legacy applications (ASP and VB)</li>
               <li>Git</li>
               <li>Jira/Trello</li>
               <li>Microsoft Azure DevOps (CI/CD)</li>
@@ -283,21 +284,21 @@
         <div class="item">
           <div class="meta">
             <div class="upper-row">
-              <h3 class="job-title">Analista Programador</h3>
+              <h3 class="job-title">Programmer Analyst</h3>
               <div class="time">05/2012 - 11/2017</div>
             </div>
-            <div class="company"><a href="https://www.bematech.com.br/sobre-nos/" target="_blank">Bematech S/A (by Totvs)</a></div>
+            <div class="company"><a href="https://www.bematech.com.br/sobre-nos/" target="_blank">Bematech S/A (by TOTVS)</a></div>
           </div>
           <div class="details">
             <ul>
-              <li>Desenvolvimento e Manutenção no ERP Gemco AnyWhere, ERP com
-                modulos de Frente de loja(PDV), Fiscal, Logistica, Entradas e
-                Saidas</li>
-              <li>Linguagem de Programação Visual Basic 6, Banco de dados Sql
-                Server e Oracle.</li>
+              <li>Development and Maintenance in ERP Gemco AnyWhere, ERP with
+                Store Front modules (POS), Tax, Logistics, Entries and
+                Outputs</li>
+              <li>Visual Basic 6 Programming Language, Sql Database
+                Server and Oracle.</li>
               <li>C# Development with ASP.Net Core</li>  
-              <li>Metodologia Ágil SCRUM</li>
-              <li>Ferramentas de controle de versão TFS(Team Foundation Server) e GIT</li>
+              <li>Agile SCRUM Methodology</li>
+              <li>TFS(Team Foundation Server) and GIT version control tools</li>
             </ul>
           </div>
         </div>
@@ -305,7 +306,7 @@
         <div class="item">
           <div class="meta">
             <div class="upper-row">
-              <h3 class="job-title">Analista de Sistemas</h3>
+              <h3 class="job-title">Systems Analyst</h3>
               <div class="time">08/2011 - 05/2012</div>
             </div>
             <div class="company"><a href="https://www.semptcl.com.br/nossa-historia/" target="_blank">Semp Toshiba
@@ -313,107 +314,107 @@
           </div>
           <div class="details">
             <ul>
-              <li>Realização de análise junto aos usuários da empresa a fim de
-                encontrar o melhor caminho racional para que a informação possa
-                ser levada aos usuários dos sistemas</li>
-              <li>Desenvolvimento de funcionalidades do ERP de gestão da empresa
-                desenvolvido em visual basic 6 com banco de dados Sql Server,
-                gerando relatorios com crystal reports</li>
+              <li>Carrying out analysis with the company's users in order to
+                find the best rational way for the information to
+                be taken to the users of the systems</li>
+              <li>Development of enterprise management ERP functionalities
+                developed in visual basic 6 with Sql Server database,
+                generating reports with crystal reports</li>
             </ul>
           </div>
         </div>
       </section>
 
       <section class="section projects-section">
-        <h2 class="section-title"><i class="fa fa-archive"></i>Projetos</h2>
+        <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
         <div class="intro">
           <h5>
-            <p>Alguns projetos dos quais participei:</p>
+            <p>Some projects I participated in:</p>
           </h5>
         </div>
 
         <div class="item">
           <span class="project-title">
-            <a href="#hook">Gateway de Pagamento para GALP (Espanha e Portugal)</a>
+            <a href="#hook">Payment Gateway for GALP (Spain and Portugal)</a>
           </span>
           -
-          <span class="project-tagline">O Projeto tinha como objetivo construir uma gateway de pagamentos,
-            full cloud, escalável e com disponibilidade 24/7. A gateway tem interação com o banco SIBS de
-            Portugal e com o banco Santander da Espanha. Através da gateway de pagamentos, é possivel plugar qualquer
-            aplicação, sendo possível receber pagamentos para a GALP, aumentando a receita da companhia.
+          <span class="project-tagline">The Project aimed to build a payment gateway,
+            full cloud, scalable and with 24/7 availability. The gateway interacts with the SIBS bank of
+            Portugal and with the bank Santander of Spain. Through the payment gateway, it is possible to plug in any
+            application, making it possible to receive payments to GALP, increasing the company's revenue.
           </span>
         </div>
 
         <div class="item">
           <span class="project-title">
-            <a href="#hook">Gateway de Pagamento para Eleva Educação</a>
+            <a href="#hook">Payment Gateway for Eleva Educação</a>
           </span>
           -
-          <span class="project-tagline">O Projeto tinha como objetivo construir uma gateway de pagamentos para
-            facilitar o recebimento de matriculas, mensalidades e acordos de inadimplencia. A gateway tem interação
-            com a mundpagg e com a decodificar para recebimentos via cartão de credito, através dela, é possivel
-            transformar os boletos em pix, para que seja possivel pagamentos via pix.
+          <span class="project-tagline">The Project aimed to build a payment gateway for
+            facilitate the receipt of enrollments, monthly fees and default agreements. The gateway has interaction
+            with mundpagg and with decoding for receipts via credit card, through it, it is possible
+            transform the slips into pix, so that payments via pix are possible.
           </span>
         </div>
 
         <div class="item">
           <span class="project-title">
-            <a href="#hook">Projeto de integração do Cold Service com a ferramenta Oracle
+            <a href="#hook">Cold Service integration project with the Oracle tool
               Field Service Cloud.</a>
           </span>
           -
-          <span class="project-tagline">O projeto tem como objetivo integrar o sistema de atendimento da
-            Metalfrio com os seus postos autorizados de atendimento através da
-            ferramenta da Oracle, de forma escalável e com alta
-            disponibilidade. Gerando otimização nas rotas de atendimento,
-            redução do tempo de envio de informações de atendimento ao
-            backoffice e fornecer uma interface mobile para seus técnicos
-            atenderem os chamados. O projeto foi desenvolvimento envolvendo as
-            equipes da Metalfrio, AMcom e Infinity. Com responsabilidades de
-            condução do projeto por conta da Metalfrio, configuração do OFSC e
-            levantamento de processos com o time da Infinity e o
-            desenvolvimento da integração e adaptação do Coldservice com o
-            time da AMcom
+          <span class="project-tagline">The project aims to integrate the service system of the
+            Metalfrio with its authorized service stations through
+            Oracle tool, in a scalable way and with high
+            availability. Generating optimization in service routes,
+            reduction in the time of sending service information to the
+            backoffice and provide a mobile interface for your technicians
+            answer the calls. The project was development involving the
+            Metalfrio, AMcom and Infinity teams. with responsibilities of
+            conduction of the project on behalf of Metalfrio, configuration of OFSC and
+            survey of processes with the Infinity team and the
+            development of the integration and adaptation of Coldservice with the
+            AMcom team
           </span>
         </div>
 
         <div class="item">
           <span class="project-title">
-            <a href="#hook">Projeto de construção de WebService.</a>
+            <a href="#hook">WebService Project.</a>
           </span>
           -
-          <span class="project-tagline">Projeto de construção de webservice com alta disponibilidade,
-            para permitir clientes da Metalfrio abrir chamados de movimentação
-            (instalação e recolha de equipamentos) em todo o país. O projeto
-            tem como objetivo migrar regras de negócio do sistema de
-            atendimento da Metalfrio (Cold Service), desenvolvido em ASP
-            clássico, para uma camada com uma tecnologia mais atual .NET (ASP
-            .NET CORE). Com o projeto, a Metalfrio forneceu a capacidade de
-            seus clientes abrirem de chamados de forma automatizada,
-            aumentando a velocidade de atendimento e satisfação de seus
-            clientes. Atualmente o Projeto integra com 2 grandes clientes da
-            Metalfrio e gerencia chamados em mais de 14 estados do país.
+          <span class="project-tagline">Project to build a webservice with high availability,
+            to allow Metalfrio customers to open movement tickets
+            (installation and collection of equipment) throughout the country. The project
+            aims to migrate business rules from the
+            Metalfrio service (Cold Service), developed in ASP
+            classic, to a layer with a more current technology .NET (ASP
+            .NET CORE). With the project, Metalfrio provided the ability to
+            your customers to open tickets in an automated way,
+            increasing service speed and customer satisfaction
+            customers. Currently the Project integrates with 2 major customers of
+            Metalfrio and manages tickets in more than 14 states in the country.
           </span>
         </div>
 
         <div class="item">
           <span class="project-title">
-            <a href="#hook">Implantação Scrum</a>
+            <a href="#hook">Scrum Implementation</a>
           </span>
           -
-          <span class="project-tagline">Implantação do processo de desenvolvimento ágil utilizando
-            SCRUM para gerenciamento das atividades de projeto e aplicando um
-            modelo KANBAN na area de suporte para a fábrica Bematech.</span>
+          <span class="project-tagline">Implementation of the agile development process using
+            SCRUM for managing project activities and applying a
+            KANBAN model in the support area for the Bematech factory.</span>
         </div>
 
         <div class="item">
           <span class="project-title">
-            <a href="http://www.benner.com.br/segmentos/saude" target="_blank">Benner Sistemas de Saúde</a>
+            <a href="http://www.benner.com.br/segmentos/saude" target="_blank">Benner Health Systems</a>
           </span>
           -
-          <span class="project-tagline">Desenvolvimento de sistemas ligados a área da saúde, entre eles:
-            agenda de consulta, sistemas de coletas, prontuario eletronico
-            entre outros.
+          <span class="project-tagline">Development of systems related to the health area, including:
+            appointment schedule, collection systems, electronic medical records
+            between others.
           </span>
         </div>
 
@@ -422,17 +423,17 @@
             <a href="http://www3.bematech.com.br/software/gemco/produtos_anywhere_wms.asp" target="_blank">ERP Gemco</a>
           </span>
           -
-          <span class="project-tagline">Desenvolvimento de funcionalidades voltadas para o varejo que
-            atendem todas as necessidades da empresa como frente de caixa,
-            estoque, contábil/financeiro, fiscal e WMS.</span>
+          <span class="project-tagline">Development of retail-oriented functionalities that
+            meet all the company's needs as a cashier,
+            inventory, accounting/financial, tax and WMS.</span>
         </div>
       </section>
 
       <section class="skills-section section">
-        <h2 class="section-title"><i class="fa fa-rocket"></i>Habilidades</h2>
+        <h2 class="section-title"><i class="fa fa-rocket"></i>Skills</h2>
         <div class="skillset">
           <div class="item">
-            <h3 class="level-title">Linguagem Programação</h3>
+            <h3 class="level-title">Programming language</h3>
             <br><br>
             <div>
               <a href="#hook"><button class="bn632-hover bn18">ASP.Net Core</button></a>
@@ -481,7 +482,7 @@
           <br>
 
           <div class="item">
-            <h3 class="level-title">Banco de dados</h3>
+            <h3 class="level-title">Database</h3>
             <br><br>
             <div>
               <a href="#hook"><button class="bn632-hover bn18">Sql Server</button></a>
@@ -496,7 +497,7 @@
           <br>
 
           <div class="item">
-            <h3 class="level-title">Gerenciadores</h3>
+            <h3 class="level-title">Managers</h3>
             <br><br>
             <div>
               <a href="#hook"><button class="bn632-hover bn18">Azure Devops</button></a>
@@ -512,7 +513,7 @@
 
 
           <div class="item">
-            <h3 class="level-title">Containers </h3>
+            <h3 class="level-title">Containers</h3>
             <br><br>
             <div>
               <a href="#hook"><button class="bn632-hover bn18">Dockers</button></a>
@@ -521,7 +522,7 @@
           <br>
 
           <div class="item">
-            <h3 class="level-title">Agil</h3>
+            <h3 class="level-title">Agile</h3>
             <br><br>
             <div>
               <a href="#hook"><button class="bn632-hover bn18">Scrum</button></a>
@@ -529,20 +530,13 @@
               <a href="#hook"><button class="bn632-hover bn18">Kanban</button></a>
             </div>
           </div>
-
-          <!-- <div class="item">
-            <h3 class="level-title">Scrum//</h3>
-            <div class="level-bar">
-              <div class="level-bar-inner" data-level="100%"></div>
-            </div>
-          </div> -->
         </div>
       </section>
 
       <section>
         <div class="meta">
           <div class="education-container container-block">
-            <h2 class="container-block-title">Licenças e Certificados</h2>
+            <h2 class="container-block-title">Licenses and Certificates</h2>
 
           </div>
         </div>
@@ -587,12 +581,12 @@
           </a>
           - Adilson M. Moreira
         </li>
-        <li>Todos os Direitos Reservados</li>
+        <li>All rights reserved</li>
       </ul>
     </div>
 
     <div class="text-center">
-      <i class="fa fa-refresh fa-spin fa-1x fa-fw"></i>Todos os Direitos Reservados</a>
+      <i class="fa fa-refresh fa-spin fa-1x fa-fw"></i> All rights reserved</a>
     </div>
 
   </footer>
