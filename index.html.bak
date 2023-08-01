@@ -42,7 +42,7 @@
           </li>
           <li class="phone">
             <i class="fa fa-phone"></i>
-            <a href="tel:47 99907-4944">+55(47) 99907-4944</a>
+            <a href="tel:+351 910 156 344">+351 910 156 344</a>
           </li>
           <li class="linkedin">
             <i class="fa fa-linkedin"></i>
@@ -130,6 +130,7 @@
             <li>Gestão das demandas utilizando Scrum/Lean.</li>
             <li>Microservices</li>
             <li>Desenvolvimento C# com ASP.Net Core e .Net 6</li>
+            <li>Desenvolvimento FrontEnd com Angular</li>
             <li>Sql Server, PostgreSQL, Oracle (Pl/Sql), Mysql, DynamoDB e DocumentoDB (MongoDB)</li>
             <li>Microsoft Azure DevOps</li>
             <li>Jira/Confluence</li>
@@ -144,17 +145,16 @@
             <li>Integração com banco SIBS de Portugal</li>
             <li>Integração com banco santander da Espanha</li>
             <li>HTML5 e JavaScript</li>
-            <li>Experiência em versionamento de código fonte com GIT e Azure Devops, incluindo branching e
-              merging</li>
+            <li>Versionamento de código fonte com GIT e Azure Devops, incluindo branching e merging</li>
             <li>Controle de versão com GIT e Azure Devops</li>
             <li>Objectives and Key Results - OKR</li>
             <li>Management 3.0 Certificate</li>
-			<li>Professional Agile Leadership Certificate - PAL I®</li>
+            <li>Professional Agile Leadership Certificate - PAL I®</li>
             <li>Professional Scrum Master Certificate - PSM I®</li>
             <li>Professional Scrum Product Owner Certificate - PSPO I®</li>
             <li>Kanban Foundation Certificate - KIKF®</li>
             <li>Kanban Essentials Professional Certificate - KEPC®</li>
-            <li>Scrum Foundation Professional Certificate - SFPC®</li>			
+            <li>Scrum Foundation Professional Certificate - SFPC®</li>
           </lu>
         </div>
       </section>
@@ -163,11 +163,41 @@
         <h2 class="section-title">
           <i class="fa fa-briefcase"></i>Experiências
         </h2>
+
         <div class="item">
           <div class="meta">
             <div class="upper-row">
               <h3 class="job-title">Engenheiro de Software</h3>
-              <div class="time">04/2022 - Atual</div>
+              <div class="time">01/2023 - Atual</div>
+            </div>
+            <div class="company"><a href="https://boost-it.pt/pt/sobre" target="_blank">Boost:It
+                - Lisboa Portugal</a></div>
+          </div>
+          <div class="details">
+            <h5>Projeto Galp Energia</h5>
+            <ul>
+              <li>Análise e levantamento de requisitos.</li>
+              <li>Gestão das demandas utilizando Scrum/Lean.</li>
+              <li>Desenvolvimento C# com .Net 4.8, .Net Core e .Net 6.</li>
+              <li>Integração SOAP e RESTful.</li>
+              <li>Desenvolvimento FrontEnd com Angular.</li>
+              <li>ORM.</li>
+              <li>SQL Server e MongoDB.</li>
+              <li>Microsoft Azure DevOps.</li>
+              <li>Agile Methodology.</li>
+              <li>CleanCode e DDD.</li>
+              <li>Desenvolvimento de collections para teste via postman.</li>
+              <li>HTML5 e JavaScript.</li>
+              <li>Git.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="meta">
+            <div class="upper-row">
+              <h3 class="job-title">Engenheiro de Software</h3>
+              <div class="time">04/2022 - 12/2022</div>
             </div>
             <div class="company"><a href="https://timestampgroup.com/ts/quemsomos/team/" target="_blank">Timestamp Group
                 - Lisboa Portugal</a></div>
@@ -287,7 +317,8 @@
               <h3 class="job-title">Analista Programador</h3>
               <div class="time">05/2012 - 11/2017</div>
             </div>
-            <div class="company"><a href="https://www.bematech.com.br/sobre-nos/" target="_blank">Bematech S/A (by Totvs)</a></div>
+            <div class="company"><a href="https://www.bematech.com.br/sobre-nos/" target="_blank">Bematech S/A (by
+                Totvs)</a></div>
           </div>
           <div class="details">
             <ul>
@@ -296,7 +327,7 @@
                 Saidas</li>
               <li>Linguagem de Programação Visual Basic 6, Banco de dados Sql
                 Server e Oracle.</li>
-              <li>C# Development with ASP.Net Core</li>  
+              <li>C# Development with ASP.Net Core</li>
               <li>Metodologia Ágil SCRUM</li>
               <li>Ferramentas de controle de versão TFS(Team Foundation Server) e GIT</li>
             </ul>
