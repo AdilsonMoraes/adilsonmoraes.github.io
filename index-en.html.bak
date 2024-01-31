@@ -101,7 +101,10 @@
           <li>Scrum</li>
         </ul>
       </div>
+
+      <button onclick="window.print()" class="bn632-hover bn20" style="margin-left: 30px;">Print Page</button>
     </div>
+
 
     <div class="main-wrapper">
       <section class="section summary-section">
@@ -174,8 +177,12 @@
                 - Lisboa Portugal</a></div>
           </div>
           <div class="details">
-            <h5>Projeto Galp Energia</h5>
+            <h5>Projeto NPF</h5>
             <ul>
+			  <p>
+				NPF Allocation.</br>
+				Consulting focused on the travel industry. Project with the objective of creating integrations with the GDS of the main airlines, integrations with partners such as Flixbus, among others. Through the tools developed, partner customers can search for timetables, price quotes and even reserve tickets.
+			  </p>
               <li>Requirement analysis and gathering.</li>
               <li>Managing Demands Using Scrum/Lean.</li>
               <li>C# development with .Net 4.8, .Net Core and .Net 6.</li>
@@ -204,6 +211,11 @@
           <div class="details">
             <h5>Galp Energy Project</h5>
             <ul>
+			  <p>
+				GALP Allocation. </br>
+				Galp is a group of Portuguese companies in the energy sector. Project with the objective of creating a payment gateway integrating all applications in the GALP world, this payment gateway had SIBS from Portugal and Santander from Spain as banking partners. </br>
+				A project developed .net, with cloud infrastructure using AWS.
+			  </p>
               <li>Requirement analysis and gathering</li>
               <li>Managing Demands Using Scrum/Lean.</li>
               <li>.Net Core</li>
@@ -239,6 +251,11 @@
           </div>
           <div class="details">
             <ul>
+			  <p>
+				The Salta Group is one of the largest groups of private schools in Brazil, the project aimed to improve the company's payment software, providing users with a good experience when re-enrolling, negotiating debts and paying invoices.</br >
+				My main objective was to manage the team well and assist in the daily development of tasks, always helping with agile and transparent management.</br>
+				A project developed .net, with cloud infrastructure using AWS.
+			  </p>
               <li>Agile team management</li>
               <li>Requirement analysis and gathering</li>
               <li>Management of demands using Scrum/Lean.</li>
